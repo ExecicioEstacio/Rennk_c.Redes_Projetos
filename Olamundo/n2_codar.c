@@ -23,7 +23,7 @@ printf("nome do aluno: %s", nome);
 
 printf("Matricual: %d", matricula);
 
-printf("indade: %d - altura %f", idade, altura);
+printf("idade: %d - altura %f", idade, altura);
 
 return 0;
 }
