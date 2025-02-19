@@ -2,12 +2,12 @@
 
 int main(){
 
-    char nome[50];
+    char nome [ 50 ];
     int idade;
     float altura;
     int matricula;
     int telefone;
-    char endereco[80];
+    char endereco [ 80 ];
 
     printf("digitte seu nome: \n");
     scanf("%s", &nome);
